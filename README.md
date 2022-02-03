@@ -5,7 +5,7 @@
 🇫🇮 Finnish (native)  
 🇬🇧 English (fluent)  
 🇸🇪 Swedish (basic)  
-💛 Toki Pona (extreme beginner)  *(jan Alekanteli! toki a)*
+<img src="./toki_pona.svg" width="16" alt="toki pona"> Toki Pona (extreme beginner)  *(jan Alekanteli! toki a)*
 
 📖 Studies
 ---
