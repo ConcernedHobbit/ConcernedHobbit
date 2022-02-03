@@ -12,7 +12,8 @@
 
 🌱 I’m currently learning a lot of things!  
 Luckily the curriculum is quite open.  
-Why not take a look at the great [Full Stack Open](https://fullstackopen.com/en/) course?
+Why not take a look at the great [Full Stack Open](https://fullstackopen.com/en/) course?  
+You can also peek at my 📚 [course exercises](https://github.com/stars/ConcernedHobbit/lists/course-exercises) repository list.
 
 👨‍🏫 I'm a course assistant on some programming courses!  
 Right now I'm helping on the following courses:  
