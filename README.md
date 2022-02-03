@@ -24,7 +24,7 @@ It's the perfect resource to start learning programming & Python.
 🕶️ Business
 ---
 
-🕴️ Looking to recruit some developers in Finland?
+🕴️ Looking to recruit some developers in Finland?  
 [TKO-äly ry.](https://tko-aly.fi) has a [job board](https://jobs.tko-aly.fi).  
 You can reach a lot of enthusiastic junior & senior developers for a variety of roles.  
 Contact me for more information 👀  
