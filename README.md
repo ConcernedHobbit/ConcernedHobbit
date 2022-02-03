@@ -32,3 +32,6 @@ Contact me for more information 👀
 🤩 ... me? Sure, let's discuss!  
 If you took a look at my repos and something sparked,  
 don't hesitate to contact me! I have my CV ready to rock & roll 🗞️
+
+---
+📜 [LICENSE](LICENSE.md)
