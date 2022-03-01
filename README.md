@@ -20,7 +20,7 @@ Right now I'm helping on the following courses:
 \- [Introduction to Programming](https://programming-22.mooc.fi/)  
 \- [Advanced Course in Programming](https://programming-22.mooc.fi/)  
 They're open for anyone & [open source](https://github.com/rage/programming-22)!  
-It's the perfect resource to start learning programming & Python.
+It's the perfect resource to start learning programming & Python.  
 \- [Ohjelmistotuotanto (software production)](https://ohjelmistotuotanto-hy-avoin.github.io/)
 
 🕶️ Business
