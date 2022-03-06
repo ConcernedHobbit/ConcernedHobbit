@@ -21,7 +21,7 @@ Right now I'm helping on the following courses:
 \- [Advanced Course in Programming](https://programming-22.mooc.fi/)  
 They're open for anyone & [open source](https://github.com/rage/programming-22)!  
 It's the perfect resource to start learning programming & Python.  
-\- [Ohjelmistotuotanto (software production)](https://ohjelmistotuotanto-hy-avoin.github.io/)
+\- [Ohjelmistotekniikka (software engineering)](https://ohjelmistotekniikka-hy.github.io/)
 
 🕶️ Business
 ---
