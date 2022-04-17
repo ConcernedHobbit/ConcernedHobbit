@@ -29,11 +29,13 @@ It's the perfect resource to start learning programming & Python.
 🕴️ Looking to recruit some developers in Finland?  
 [TKO-äly ry.](https://tko-aly.fi) has a [job board](https://jobs.tko-aly.fi).  
 You can reach a lot of enthusiastic junior & senior developers for a variety of roles.  
-Contact me for more information 👀  
+Contact me for more information 👀 
 
-🤩 ... me? Sure, let's discuss!  
+💻 I'm spending summer 2022 as a frontend dev. summer trainee.
+
+🤩 Want to hire me? 
 If you took a look at my repos and something sparked,  
-don't hesitate to contact me! I have my CV ready to rock & roll 🗞️
+don't hesitate to contact me! I have my CV ready to rock & roll 🗞️  
 (interested in 😌 _0- or low-hour positions_ starting 🍂 _sept. 2022_)
 
 ---
