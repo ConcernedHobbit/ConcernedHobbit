@@ -34,6 +34,7 @@ Contact me for more information 👀
 🤩 ... me? Sure, let's discuss!  
 If you took a look at my repos and something sparked,  
 don't hesitate to contact me! I have my CV ready to rock & roll 🗞️
+(interested in 😌 _0- or low-hour positions_ starting 🍂 _sept. 2022_)
 
 ---
 📜 [LICENSE](LICENSE.md)
