@@ -31,12 +31,7 @@ It's the perfect resource to start learning programming & Python.
 You can reach a lot of enthusiastic junior & senior developers for a variety of roles.  
 Contact me for more information 👀 
 
-💻 I'm spending summer 2022 as a frontend dev. / UI & UX design summer trainee at Vaisala.
-
-🤩 Want to hire me?  
-If you took a look at my repos and something sparked,  
-don't hesitate to contact me! I have my CV ready to rock & roll 🗞️  
-(interested in 😌 _0- or low-hour positions_ starting 🍂 _sept. 2022_)
+💻 Frontend developer / UI & UX design trainee at Vaisala.
 
 ---
 📜 [LICENSE](LICENSE.md)
